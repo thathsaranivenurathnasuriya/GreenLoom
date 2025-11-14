@@ -27,7 +27,7 @@ export function Sidebar() {
             </div>
             <div>
               <p className="text-sm text-blue-900">Facebook</p>
-              <p className="text-xs text-blue-700">@GreenLoomBlog</p>
+              <p className="text-xs text-blue-700">@GreenLoomFacebookpage</p>
             </div>
           </a>
 
@@ -56,14 +56,14 @@ export function Sidebar() {
             <Mail className="w-4 h-4 text-green-600 mt-1 flex-shrink-0" />
             <div>
               <p className="text-gray-600">Email</p>
-              <p className="text-gray-900">info@greenloom.com</p>
+              <p className="text-gray-900">greenloom60@gmail.com</p>
             </div>
           </div>
           <div className="flex items-start gap-3 text-sm">
             <MapPin className="w-4 h-4 text-green-600 mt-1 flex-shrink-0" />
             <div>
               <p className="text-gray-600">Location</p>
-              <p className="text-gray-900">Green Valley, CA</p>
+              <p className="text-gray-900">Pasal Mawatha, Unawtuna, Buttala</p>
             </div>
           </div>
         </div>

@@ -35,8 +35,7 @@ export function ContactPage() {
               <Mail className="w-6 h-6 text-green-600" />
             </div>
             <h3 className="text-gray-900 mb-2">Email Us</h3>
-            <p className="text-gray-600 text-sm">info@greenloom.com</p>
-            <p className="text-gray-600 text-sm">support@greenloom.com</p>
+            <p className="text-gray-600 text-sm">greenloom60@gmail.com</p>
           </div>
         </Card>
 
@@ -46,7 +45,7 @@ export function ContactPage() {
               <Phone className="w-6 h-6 text-blue-600" />
             </div>
             <h3 className="text-gray-900 mb-2">Call Us</h3>
-            <p className="text-gray-600 text-sm">+1 (555) 123-4567</p>
+            <p className="text-gray-600 text-sm">+94 71 650 3056</p>
             <p className="text-gray-600 text-sm">Mon - Fri, 9am - 5pm</p>
           </div>
         </Card>
@@ -57,8 +56,8 @@ export function ContactPage() {
               <MapPin className="w-6 h-6 text-purple-600" />
             </div>
             <h3 className="text-gray-900 mb-2">Visit Us</h3>
-            <p className="text-gray-600 text-sm">123 Green Valley Road</p>
-            <p className="text-gray-600 text-sm">California, CA 94000</p>
+            <p className="text-gray-600 text-sm">Pasal Mawatha</p>
+            <p className="text-gray-600 text-sm">Unawtuna, Buttala</p>
           </div>
         </Card>
       </div>

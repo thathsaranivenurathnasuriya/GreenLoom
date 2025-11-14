@@ -161,9 +161,9 @@ export function TermsPage() {
             If you have any questions about these Terms and Conditions, please contact us:
           </p>
           <div className="space-y-2 text-gray-700">
-            <p>Email: legal@greenloom.com</p>
-            <p>Phone: +1 (555) 123-4567</p>
-            <p>Address: 123 Green Valley Road, California, CA 94000</p>
+            <p>Email: greenloom60@gmail.com</p>
+            <p>Phone: +94 71 650 3056</p>
+            <p>Address: Pasal Mawatha, Unawtuna, Buttala</p>
           </div>
         </Card>
       </div>
